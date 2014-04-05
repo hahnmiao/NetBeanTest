@@ -9,10 +9,12 @@ package javafxapplication1;
 /**
  *
  * @author Elitward
+ * 
  */
 public class NewClass {
     private int member1;
     private boolean member2;
+    private boolean here;
 
     /**
      * @return the member1
