@@ -9,7 +9,7 @@ package javafxapplication1;
 /**
  *
  * @author Elitward
- * 
+ * @param here
  */
 public class NewClass {
     private int member1;
@@ -28,5 +28,6 @@ public class NewClass {
      */
     public void setMember1(int member1) {
         this.member1 = member1;
+  
     }
 }
